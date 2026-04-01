@@ -1,5 +1,5 @@
 👋 Hi, I’m Dominikus Krisna Herlambang @dominikkrisnah
-- an Oceanographer with over 6 years of experience in oceanography and atmospheric sciences, as well as a Data Scientist & Full Stack AI Developer with over 3 years of professional work experience as an Data Scientist & AI developer.
+- an Oceanographer with over 6 years of experience in oceanography and atmospheric sciences, as well as a Data Scientist & Full Stack AI Developer with over 4 years of professional work experience as an Data Scientist & AI developer.
 
 - I specialize in modeling, analyzing, and visualizing large-scale oceanographic and atmospheric datasets, integrating machine learning and AI solutions to uncover insights that support climate and environmental research.
 
