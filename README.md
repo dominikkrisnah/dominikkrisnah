@@ -1,21 +1,8 @@
-- 👋 Hi, I’m Dominikus Krisna Herlambang @dominikkrisnah
-- 👀 an experienced data scientist with 4+ years of expertise in oceanography and atmospheric sciences
-- 🌱 Currently, I am studying and deepening my knowledge about the dynamics of interactions that occur between the ocean and the atmosphere and their impact on world climate change
-- 💞️ I’m looking to collaborate on research in the field of oceanography and atmospheric sciences, and I want to collaborate in technology development in the fields of AI and Data Science
-- You can contact me via e-mail: krisnaherlambang48@gmail.com
-- You can see my professional resume at: https://drive.google.com/file/d/12UKOZK73SbhgnFOjfdw1geuIKZc0wpgD/view?usp=drive_link
-- You can see my other portfolio at: https://bit.ly/My-Professional-Portfolio
-- Here are my areas of expertise:
-  • Interaction of Ocean and Atmosphere
-  • Dynamics of Indian Ocean Circulation and Climate
-  • Dynamics of Upwelling and Downwelling
-  • Dynamics of The Southern Java Seas and The Western Sumatera Seas
-  • Numerical Computational Analysis
-  • Critical Thinking and Problem Solving
-  • Cartography
-  • Python Programming
-  • R Programming
-  • Google Earth Engine
-  • OpenGrADS-2.2
-  • Ocean Data View (ODV)
-  • QGIS
+👋 Hi, I’m Dominikus Krisna Herlambang @dominikkrisnah
+- an Oceanographer with over 6 years of experience in oceanography and atmospheric sciences, as well as a Data Scientist & Full Stack AI Developer with over 3 years of professional work experience as an Data Scientist & AI developer.
+
+- I specialize in modeling, analyzing, and visualizing large-scale oceanographic and atmospheric datasets, integrating machine learning and AI solutions to uncover insights that support climate and environmental research.
+
+- As a consultant, trainer, and speaker, I’ve guided professionals and researchers in leveraging data-driven methods for ocean–atmosphere studies. Currently, my focus lies in exploring the dynamic interactions between the ocean and atmosphere and their role in global climate change.
+
+- In parallel, I actively work as a freelance AI developer, building end-to-end AI systems — from data engineering and model development to deployment and optimization. I thrive at the intersection of data science, geoscience, and artificial intelligence, turning complex scientific data into actionable insights.
