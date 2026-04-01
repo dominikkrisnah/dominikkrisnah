@@ -8,7 +8,10 @@
 - In parallel, I actively work as a freelance AI developer, building end-to-end AI systems — from data engineering and model development to deployment and optimization. I thrive at the intersection of data science, geoscience, and artificial intelligence, turning complex scientific data into actionable insights.
 
 ________________________________
-📩 Let’s Connect:
+Let’s Connect:
 
 ✉️ krisnaherlambang48@gmail.com
+
+📩 https://www.linkedin.com/in/dominikus-krisna-herlambang
+
 📞 +62 831-2994-1438
