@@ -14,4 +14,3 @@ Let’s Connect:
 
 📩 https://www.linkedin.com/in/dominikus-krisna-herlambang
 
-📞 +62 831-2994-1438
